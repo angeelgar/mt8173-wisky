@@ -37,7 +37,7 @@ git config --global user.name "git_username"
 ```
 #### Initialize Repo:
 ```
-repo init -u git://github.com/mt8173/mt8173-sdk.git -b master
+repo init -u git://github.com/mt8173/mt8173-manifest.git -b master
 ```
 #### Sync sources (it may require some hours)
 ```
